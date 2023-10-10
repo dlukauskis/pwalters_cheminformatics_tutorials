@@ -11,9 +11,7 @@ clone the repo and run these notebooks on your own computer.
 1. [A Whirlwind Introduction to the RDKit for Cheminformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/A_Whirlwind_Introduction_To_The_RDKit.ipynb) - DONE
 2. [A Brief Introduction to Pandas for Cheminformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/pandas_intro.ipynb) - DONE
 3. [SMILES Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMILES_tutorial.ipynb) - DONE
-4. [SMARTS Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMARTS_tutorial.ipynb)
-5. Recursive SMARTS - Under Construction
-6. Reaction SMARTS - Under Construction
+4. [SMARTS Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMARTS_tutorial.ipynb) - DONE
 
 #### Using [datamol](https://datamol.io) and [molfeat](https://datamol.io) to Streamline Cheminformatics Workflows
 7. [Data Manipulation, Descriptors and Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/datamol/datamol_1.ipynb)
