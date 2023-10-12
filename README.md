@@ -14,7 +14,7 @@ clone the repo and run these notebooks on your own computer.
 4. [SMARTS Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMARTS_tutorial.ipynb) - DONE
 
 #### Using [datamol](https://datamol.io) and [molfeat](https://datamol.io) to Streamline Cheminformatics Workflows
-7. [Data Manipulation, Descriptors and Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/datamol/datamol_1.ipynb)
+7. [Data Manipulation, Descriptors and Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/datamol/datamol_1.ipynb) - DONE
 
 #### Clustering
 8. [K-Means Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/kmeans_clustering.ipynb)
